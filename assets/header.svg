@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Agentic Delegation and the Language Frontier</title>
+  <desc id="desc">Portada del repositorio sobre delegación agéntica y lenguajes de programación</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17212B"/>
+      <stop offset="1" stop-color="#176B87"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="22" fill="url(#grid)"/>
+
+  <path d="M878 236V184H938V136H998V88H1058" fill="none" stroke="#F7F4EE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M855 236H1102" fill="none" stroke="#F7F4EE" stroke-opacity=".45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M862 206H932" fill="none" stroke="#D65A4A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M932 206L964 185L932 164Z" fill="#D65A4A"/>
+  <circle cx="1058" cy="88" r="16" fill="#DCA54A"/>
+  <text x="851" y="278" fill="#F7F4EE" font-family="Helvetica,Arial,sans-serif" font-size="18" letter-spacing="2">ACTIVATION BAND</text>
+
+  <text x="70" y="78" fill="#DCA54A" font-family="Helvetica,Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="4">AI &amp; ECONOMIC MODELING · REPOSITORY 03</text>
+  <text x="70" y="145" fill="#FFFFFF" font-family="Georgia,serif" font-size="46" font-weight="700">Agentic Delegation and the</text>
+  <text x="70" y="202" fill="#FFFFFF" font-family="Georgia,serif" font-size="46" font-weight="700">Language Frontier</text>
+  <text x="72" y="255" fill="#F7F4EE" font-family="Helvetica,Arial,sans-serif" font-size="23">Quispe · Xu (2026) · reconstrucción crítica</text>
+</svg>
