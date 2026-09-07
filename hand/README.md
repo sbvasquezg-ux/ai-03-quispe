@@ -1,6 +1,6 @@
-# Evidencia manuscrita pendiente
+# Evidencia manuscrita
 
-Añade una foto real, tomada por ti, con el nombre `prop3-endpoint.jpg` o `prop3-endpoint.png`. No se generó una imagen artificial.
+`prop3-endpoint.png` es la foto real aportada por la estudiante. No se generó una imagen artificial.
 
 La derivación de mayor valor es el contraejemplo mínimo de la Proposición 3:
 
@@ -11,4 +11,4 @@ La derivación de mayor valor es el contraejemplo mínimo de la Proposición 3:
 5. Encierra el paso del apéndice A.6 que requiere (p^2(1-p^2)^{s+1}>0) y anota que falla en (p^2=1).
 6. Escribe la reparación: (0<p^2<1) y al menos un lenguaje no familiar.
 
-Esta foto vale más que copiar toda la prueba porque documenta el punto exacto donde una desigualdad estricta del paper no se sostiene. El deck la mostrará automáticamente si el archivo usa uno de esos dos nombres; recompila `presentation.tex` después de añadirla.
+Esta foto vale más que copiar toda la prueba porque documenta el punto exacto donde una desigualdad estricta del paper no se sostiene. El deck compilado la muestra en la diapositiva 13.
